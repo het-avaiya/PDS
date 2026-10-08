@@ -1,0 +1,16 @@
+Student,Gender,Study_Hours,Attendance,Sleep_Hours,Previous_Score,Final_Score
+S1,Male,2,70,6,55,58
+S2,Female,4,85,7,65,72
+S3,Male,3,80,6,60,65
+S4,Female,5,90,8,75,82
+S5,Male,1,65,5,50,52
+S6,Female,6,95,8,80,88
+S7,Male,4,88,7,70,76
+S8,Female,2,75,6,58,61
+S9,Male,5,92,7,78,84
+S10,Female,3,82,7,62,68
+S11,Male,6,96,8,85,91
+S12,Female,1,60,5,48,50
+S13,Male,3,78,6,63,66
+S14,Female,5,89,7,74,81
+S15,Male,2,72,6,56,60
